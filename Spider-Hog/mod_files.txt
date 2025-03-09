@@ -1,10 +1,1 @@
-add ConfigSchema.json
-add /Main/+Sonic.ar.00
-add /Main/+Sonic.arl
-add /Main/Inspire/chara/+SonicEVRoot.ar.00
-add /Main/Inspire/chara/+SonicEVRoot.arl
-add /Unmasked/+Sonic.ar.00
-add /Unmasked/+Sonic.arl
-add /Unmasked/Inspire/chara/+SonicEVRoot.ar.00
-add /Unmasked/Inspire/chara/+SonicEVRoot.arl
 add mod.ini
